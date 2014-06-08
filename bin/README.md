@@ -1,0 +1,1 @@
+This is the folder where executables are stored once compiled. These are not included automatically in the repository.
