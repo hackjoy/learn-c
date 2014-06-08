@@ -5,5 +5,5 @@ int main() {
    printf("Hello, World! \n");
    return 0;
 }
-// $ gcc hello.c
-// $ ./a.out
+// gcc hello-world.c -o bin/hello-world
+// $ ./bin/hello-world
